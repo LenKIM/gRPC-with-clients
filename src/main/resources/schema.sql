@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS user_id
+(
+    id BIGINT
+
+);
