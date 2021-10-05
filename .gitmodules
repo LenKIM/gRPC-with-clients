@@ -1,0 +1,3 @@
+[submodule "grpc-ids-common"]
+	path = grpc-ids-common
+	url = https://github.com/LenKIM/grpc-ids-common.git
